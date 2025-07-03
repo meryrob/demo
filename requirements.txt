@@ -1,1 +1,2 @@
+# Requirements for Gym Management Web App
 Flask==3.0.2
